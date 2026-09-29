@@ -1,7 +1,9 @@
 # in-class-activities
 ## Devlogs
 ### W1
-Write your W1 activity Devlog here.
+When I removed the Camera from the Cat, it stopped following the cat’s movement and rotation because it was no longer a child of the Cat.
+
+Play my game: https://alandooonut.itch.io/w1-cat-game
 
 ### W2
 Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.
